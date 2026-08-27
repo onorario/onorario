@@ -13,11 +13,11 @@ Me chamo Luiz Fernando de Oliveira Pereira, tenho 21 anos e sou natural de São 
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="R"
+    title="R" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" 
 />
 <img 
     align="left" 
