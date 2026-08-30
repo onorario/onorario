@@ -42,7 +42,7 @@ Me chamo Luiz Fernando de Oliveira Pereira, tenho 21 anos e sou natural de São 
     title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
 <br/>
 
