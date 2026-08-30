@@ -51,6 +51,7 @@ Me chamo Luiz Fernando de Oliveira Pereira, tenho 21 anos e sou natural de São 
 - Dança (Contemporânea e Jazz)
 - Corrida
 - Musculação / Academia
+- Jogos Online
 
 ---
 Abaixo se encontram alguns projetos realizados durante o meu período de graduação
